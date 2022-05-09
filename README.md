@@ -1,0 +1,2 @@
+# JavaIO-Stream
+JavaIOStream学习测试，字节流的JPG格式与TXT格式输入输出及异常处理的两种方式
